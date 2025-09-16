@@ -1,3 +1,3 @@
-# Hi there 👋 I'm Akshaya Radhakrishnan
+# Hi 👋 I'm Akshaya!
 
-I am a Computer Science and Behavioral Neuroscience student at Northeastern University passionate about building user-centered applications! I’m especially interested in the intersection of technology, health, and data, and I’m always excited to learn new frameworks, collaborate on meaningful projects, and create software that makes a positive impact.
+I am a sophomore at Northeastern University studying Computer Science and Behavioral Neuroscience. I'm passionate about creating user-centered projects and applications that make a postive impact on my community! I’m especially interested in the intersection of technology and mental health, and I’m always excited to learn new frameworks and collaborate on meaningful projects. 
